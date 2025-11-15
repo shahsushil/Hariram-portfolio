@@ -309,6 +309,7 @@ span{
     margin-bottom: 4rem; 
 }
 .portfolio-container{
+    cursor: pointer;
     display: grid;
     grid-template-columns: repeat(3,1fr);
     align-items:center;
